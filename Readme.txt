@@ -1,4 +1,4 @@
-he project was written by:
+The project was written by:
 Natan Tunik
 Yuval Morgenshtern
 
